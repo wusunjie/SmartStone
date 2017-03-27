@@ -1,0 +1,1 @@
+export ARCHOPTS=stm32

@@ -1,0 +1,1 @@
+CSOURCES+=$(shell find -L $(PROJECT_TOP)/src/mathlib -name '*.c')
